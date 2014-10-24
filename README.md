@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-A new repo for cerating the first project in Data Scientist's Toolbox class
+A new repo for creating the first project in the Data Scientist's Toolbox class.
